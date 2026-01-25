@@ -17,6 +17,12 @@ It demonstrates how weak passwords can be guessed through automated random numbe
 - Explicitly authorized test accounts
 - Local or mock authentication systems
 
+## Features
+- Randomized numeric password generation logic
+- Automated request handling
+- Colored terminal output using lolcat
+- Simple, beginner-friendly Python structure
+- Demonstrates why rate limiting and lockout policies matter
 
 # Command
 
