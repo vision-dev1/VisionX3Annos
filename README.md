@@ -45,3 +45,7 @@ git clone https://github.com/THE-LEGEND-VISION/VisionX3Annos
 cd VisionX3Annos
 
 python2 VISION.py
+
+# Author
+Vision KC 
+Annos 
